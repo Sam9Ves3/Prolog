@@ -12,5 +12,7 @@ Load the file and pose the query typing:
 
 ?- go. 
 
+# References
+The example code was taken from J.R. Fisher(n.d) https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_17.html
 
 
